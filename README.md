@@ -40,15 +40,9 @@ This project is part of my frontend development journey, where I focus on improv
 
 ---
 
-## 📸 Preview
-
-![Preview]([./images/landing.jpg](https://mustafakullab.github.io/Kullab-Frontend-Template/))
-
----
-
 ## 🌐 Live Demo
 
-👉 (Add your GitHub Pages link here)
+👉 (https://mustafakullab.github.io/Kullab-Frontend-Template/)
 
 ---
 
