@@ -42,7 +42,7 @@ This project is part of my frontend development journey, where I focus on improv
 
 ## 📸 Preview
 
-![Preview](./images/landing.jpg)
+![Preview]([./images/landing.jpg](https://mustafakullab.github.io/Kullab-Frontend-Template/))
 
 ---
 
