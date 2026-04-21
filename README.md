@@ -10,6 +10,8 @@ Kullab UI is a clean and modern responsive template designed to practice and dem
 
 This project focuses on building structured layouts, smooth UI, and scalable design using only HTML & CSS.
 
+<img width="1893" height="917" alt="image" src="https://github.com/user-attachments/assets/03fa7b45-55de-4b57-863d-470418e23540" />
+
 ---
 
 ## 🧠 Features
